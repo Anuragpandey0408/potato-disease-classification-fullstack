@@ -1,10 +1,11 @@
 # 🥔 Potato Disease Classification Fullstack
 
-A full-stack web application that uses machine learning to classify potato diseases from images. Designed for farmers, researchers, and agricultural professionals to quickly identify disease types and receive actionable recommendations.
+🚧 **Work In Progress** 🚧  
+This repository is under active development and not yet feature-complete. Contributions, suggestions, and feedback are welcome!
 
 ---
 
-## ✨ Features
+## ✨ Features (Planned / In Progress)
 
 - 📷 Upload potato leaf images for disease detection
 - ⚡ Real-time prediction using a trained ML model
@@ -20,18 +21,18 @@ A full-stack web application that uses machine learning to classify potato disea
 - **Backend:** Node.js, Express
 - **Machine Learning:** Python, TensorFlow/Keras
 - **Database:** MongoDB
-- **Other Tools:** REST API, GitHub Actions
+- **Other Tools:** Docker, REST API, GitHub Actions
 
 ---
 
 ## 🚀 Setup Instructions
 
+> **Note:** The setup steps below may change as development progresses.
+
 ### Prerequisites
 
 - Node.js & npm
-- Python 3.x
-- MongoDB
-- Docker (optional)
+- Python 3.13
 
 ### Backend
 
@@ -70,13 +71,7 @@ npm start
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork this repo
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Contributions are encouraged! Please fork the repository and open a pull request, or create an issue for discussion.
 
 ---
 
@@ -89,7 +84,7 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 Maintainer: [Anuragpandey0408](https://github.com/Anuragpandey0408)  
-Email: anurag077269@gmail.com
+Email: anuragpandey077269@gmail.com
 
 ---
 
