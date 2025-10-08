@@ -1,16 +1,91 @@
-# Potato Disease Classifier Fullstack
-This project focuses on classifying potato plant diseases using deep learning techniques. Early detection of plant diseases is essential for increasing crop yield and reducing economic loss. By leveraging Convolutional Neural Networks (CNNs), this project aims to provide an automated solution for identifying potato leaf diseases with high accuracy.
+# 🥔 Potato Disease Classification Fullstack
 
-# Project Overview
+🚧 **Work In Progress** 🚧  
+This repository is under active development and not yet feature-complete. Contributions, suggestions, and feedback are welcome!
 
-Developed a deep learning model to classify potato leaf images into categories:
+---
 
-Healthy
+## ✨ Features (Planned / In Progress)
 
-Early Blight
+- 📷 Upload potato leaf images for disease detection
+- ⚡ Real-time prediction using a trained ML model
+- 📊 Dashboard for viewing results and history
+- 🔗 RESTful API for integration
+- 🖥️ Responsive frontend UI for usability
 
-Late Blight
+---
 
-Implemented using TensorFlow / Keras (or PyTorch if you used that).
+## 🛠️ Tech Stack
 
-Trained on the PlantVillage dataset (Potato subset).
+- **Frontend:** React.js, HTML5, CSS3
+- **Backend:** Node.js, Express
+- **Machine Learning:** Python, TensorFlow/Keras
+- **Database:** MongoDB
+- **Other Tools:** Docker, REST API, GitHub Actions
+
+---
+
+## 🚀 Setup Instructions
+
+> **Note:** The setup steps below may change as development progresses.
+
+### Prerequisites
+
+- Node.js & npm
+- Python 3.13
+
+### Backend
+
+```bash
+git clone https://github.com/Anuragpandey0408/potato-disease-classification-fullstack.git
+cd potato-disease-classification-fullstack/backend
+npm install
+npm start
+```
+
+### ML Model
+
+```bash
+cd ../ml-model
+pip install -r requirements.txt
+# Run training/inference scripts as needed
+```
+
+### Frontend
+
+```bash
+cd ../frontend
+npm install
+npm start
+```
+
+---
+
+## 🧑‍💻 Usage
+
+- Access the app at `http://localhost:3000`
+- Upload a potato leaf image
+- View disease classification and suggested actions
+
+---
+
+## 🤝 Contributing
+
+Contributions are encouraged! Please fork the repository and open a pull request, or create an issue for discussion.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 📬 Contact
+
+Maintainer: [Anuragpandey0408](https://github.com/Anuragpandey0408)  
+Email: anuragpandey077269@gmail.com
+
+---
+
+*Potato Disease Classification Fullstack – Empowering agriculture with AI.*
