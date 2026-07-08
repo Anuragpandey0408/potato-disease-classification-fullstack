@@ -1,7 +1,7 @@
 # 🥔 Potato Disease Classification Fullstack
 
 🚧 **Work In Progress** 🚧  
-This repository is under active development and not yet feature-complete. Contributions, suggestions, and feedback are welcome!
+This repository is under active development and not yet feature-complete. Contributions, suggestions, and feedback are welcome.
 
 ---
 
